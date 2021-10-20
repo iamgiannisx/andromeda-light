@@ -54,14 +54,14 @@ link = "https://gethugothemes.com/products/andromeda/"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
 # call-to-action
 [cta]
-enable = true
+enable = false
 title = "Get Andromeda-Premium Now"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Download The Theme"
