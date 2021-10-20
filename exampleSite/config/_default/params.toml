@@ -48,7 +48,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Buy Premium"
 link = "https://gethugothemes.com/products/andromeda/"
 
