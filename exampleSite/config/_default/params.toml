@@ -34,7 +34,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 custom_script= "" 
 
 # buy premium popup
-buy_premium_popup = false
+buy_premium_popup = true
 
 # Main Sections
 mainSections= ["blog"]
@@ -63,7 +63,7 @@ link = "https://gethugothemes.com/products/andromeda/"
 
 # cookies
 [cookies]
-enable = true
+enable = false
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"

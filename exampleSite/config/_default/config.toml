@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/andromeda-light/"
 title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
-theme = "Andromeda-light"
+theme = "andromeda-light"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -30,10 +30,11 @@ border_color = "#ACB9C4"
 black = "#000"
 white = "#fff"
 light = "#fdfdfd"
-font_primary = "Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400"
-font_primary_type = "sans-serif" # [serif/sans-serif]
-font_secondary = "Work+Sans"
-font_secondary_type = "serif" # [serif/sans-serif]
+primary_font = "Open+Sans:ital,wght@0,400;0,500;0,700;1,400"
+#"Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400"
+primary_font_type = "sans-serif" # [serif/sans-serif]
+secondary_font = "Work+Sans"
+secondary_font_type = "serif" # [serif/sans-serif]
 #icon_font = "Font Awesome 5 Free" # chose icon: https://fontawesome.com/icons
 
 
