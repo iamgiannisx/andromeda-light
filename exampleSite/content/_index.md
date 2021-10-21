@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "This is the most intuitive way to prototype Designs"
+  title: "Αυτό είναι intuitive oοoο το to to prototype Designs"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"

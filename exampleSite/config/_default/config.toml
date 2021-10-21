@@ -17,6 +17,27 @@ disqusShortname = "themefisher-template" # get your shortname form here : https:
 extended = true
 min = "0.83.1"
 
+########################## Fonts ###################################
+
+[params.variables]
+color_primary = "blue"
+color_secondary = "#001111"
+body_color = "#fff"
+text_color = "#666666"
+text_dark = "#222222"
+text_light = "#959595"
+border_color = "#ACB9C4"
+black = "#000"
+white = "#fff"
+light = "#fdfdfd"
+font_primary = "Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400"
+font_primary_type = "sans-serif" # [serif/sans-serif]
+font_secondary = "Work+Sans"
+font_secondary_type = "serif" # [serif/sans-serif]
+#icon_font = "Font Awesome 5 Free" # chose icon: https://fontawesome.com/icons
+
+
+
 ############################# Outputs ##############################
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest"]

@@ -12,6 +12,15 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
+########################## Fonts ###################################
+#Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400
+#[params.variables]
+#font_primary = "Source+Sans+Pro:wght@400;700"
+#font_primary_type = "serif" # [serif/sans-serif]
+#font_secondary = "Work+Sans"
+#font_secondary_type = "sans-serif" # [serif/sans-serif]
+#icon_font = "Font Awesome 5 Free" # chose icon: https://fontawesome.com/icons
+
 # footer information
 footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
