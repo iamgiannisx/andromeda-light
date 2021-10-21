@@ -31,10 +31,10 @@ contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works wit
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= "" 
+custom_script= "<script>console.log(\"Hello World\");</script>" 
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 mainSections= ["blog"]
