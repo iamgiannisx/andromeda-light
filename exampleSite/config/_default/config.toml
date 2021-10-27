@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://netera1.netlify.app/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Andromeda-light - Test"
 theme = "andromeda-light"
 # post pagination
 paginate = "3"
